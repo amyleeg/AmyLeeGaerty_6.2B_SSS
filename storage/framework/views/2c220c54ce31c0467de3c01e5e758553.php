@@ -1,0 +1,3 @@
+<h1>Add new contact</h1>
+Here I will have a new contact form...
+<a href="<?php echo e(route('contacts.index')); ?>">Back to all contacts</a><?php /**PATH /home/sss/AmyLeeGaerty_6.2B_SSS/contactApp/resources/views/contacts/create.blade.php ENDPATH**/ ?>

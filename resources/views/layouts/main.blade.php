@@ -36,7 +36,7 @@
 
 
 
-    {{-- content --}}
+   @yield('content')
 
 
 
